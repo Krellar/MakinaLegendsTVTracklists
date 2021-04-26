@@ -317,7 +317,8 @@ function selectSesionTracklist(sesionName)
 42 - ??? (01:17:10)
 43 - X-Que Special Remixes Vol.1 - Torn
 44 - ??? (1:18:47)
-45 - XYZ - Shake (2005 Remix) (1:19:56)`
+45 - XYZ - Shake (2005 Remix) (1:19:56)
+46 - ??? (1:20:45)`
     }
 
     return sesion;
