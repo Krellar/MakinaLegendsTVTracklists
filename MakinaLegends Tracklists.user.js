@@ -38,7 +38,7 @@
 
     var script = document.createElement("script");
 
-    script.src = "https://cdn.jsdelivr.net/gh/jordirosa/MakinaLegendsTVTracklists@latest/MLFunctions.js";
+    script.src = "https://cdn.jsdelivr.net/gh/jordirosa/MakinaLegendsTVTracklists/MLFunctions.js";
     script.type = "text/javascript";
 
     document.head.appendChild(script);
