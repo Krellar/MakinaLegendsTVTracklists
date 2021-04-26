@@ -3,7 +3,7 @@
 // @namespace    https://www.makinalegends.com
 // @version      0.1
 // @description  try to take over the world!
-// @author       You
+// @author       Jordi Rosa
 // @match        https://www.makinalegends.com/makina-legends-tv-area-personal/
 // @grant        none
 // ==/UserScript==
@@ -38,7 +38,7 @@
 
     var script = document.createElement("script");
 
-    script.src = "https://cdn.jsdelivr.net/gh/jordirosa/MakinaLegendsTVTracklists/MakinaLegends.js";
+    script.src = "https://cdn.jsdelivr.net/gh/jordirosa/MakinaLegendsTVTracklists/MakinaLegends.github.js";
     script.type = "text/javascript";
 
     document.head.appendChild(script);
