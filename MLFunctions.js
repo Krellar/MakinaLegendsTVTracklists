@@ -305,7 +305,19 @@ function selectSesionTracklist(sesionName)
 31 - Nau B-3 - El Bosque De Colores (Ruboy Remix) (0:49:59)
 31 - ??? Highlander - Hold Me Now (0:50:34)
 32 - Re-Style - Get It Crackin (0:54:46)
-33 - Speed Limit - Paradise (Club Mix) (0:57:55)`
+33 - Speed Limit - Paradise (Club Mix) (0:57:55)
+34 - ??? (0:59:28)
+35 - La original es Coldplay - The Scientist (1:01:45)
+36 - ??? (01:05:09)
+37 - ??? (01:08:37)
+38 - ??? (01:10:52)
+39 - ??? Remix del Demolition - News (01:11:55)
+40 - ??? (01:13:45)
+41 - ??? (01:15:58)
+42 - ??? (01:17:10)
+43 - X-Que Special Remixes Vol.1 - Torn
+44 - ??? (1:18:47)
+45 - XYZ - Shake (2005 Remix) (1:19:56)`
     }
 
     return sesion;
